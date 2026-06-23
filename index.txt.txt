@@ -1,1 +1,3 @@
 これはgitの練習です。
+git reset
+git commit --amend
