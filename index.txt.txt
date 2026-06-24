@@ -1,3 +1,4 @@
 これはgitの練習です。
 git reset
 git commit --amend
+<p>conflict</p>
